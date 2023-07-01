@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on <a href ="https://www.upwork.com/freelancers/~01c61dda3b00f1500c"> Upwork</a>
  
 - 💬 Ask me about ReactJS, Front end development and MERN stack development
-- 📫 How to reach me: <a href= "rohith.komirishetty@gmail.com"> Gmail </a>
+- 📫 How to reach me: <a href= "mailto:rohith.komirishetty@gmail.com"> Gmail </a>
 - 😄 Pronouns: He/His
 
